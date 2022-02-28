@@ -6,7 +6,7 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-🔭 I'm currently doing Software Engineering/Programming, and like to work on things<br>
+🔭 I'm currently working as a Software Engineer, and like to build things<br>
 with **[TypeScript](https://www.typescriptlang.org/)**, **[React](https://reactjs.org/)**, and **[NodeJS](https://nodejs.org/)**.
 
 **_Tech preferences:_**
